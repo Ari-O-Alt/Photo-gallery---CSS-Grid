@@ -1,1 +1,1 @@
-# Photo-gallery---CSS-Grid
+#### Photo gallery built using CSS grid. No functionality added yet.
